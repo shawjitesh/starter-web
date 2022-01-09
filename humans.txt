@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jitesh Shaw		jiteshshaw93@gmail.com		@shawjitesh
 
 # THANKS
 
